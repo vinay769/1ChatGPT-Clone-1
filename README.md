@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project is a clone of the popular AI chatbot ChatGPT, built using [Your Chosen Framework, e.g., React, Vue, or Angular]. It aims to replicate ChatGPT's conversational capabilities and provide users with a similar experience.
+This project is a clone of the popular AI chatbot ChatGPT, built using npdejs ,flutter and bloc. It aims to replicate ChatGPT's conversational capabilities and provide users with a similar experience.
 
 **Key Features:**
 
@@ -46,5 +46,5 @@ This project is a clone of the popular AI chatbot ChatGPT, built using [Your Cho
 
 **Technologies Used:**
 
-- [List of technologies used in your project, e.g., Node.js, Express, flutter]
+- [List of technologies used in your project, e.g., Node.js, Express, flutter and bloc]
 
